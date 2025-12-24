@@ -1,0 +1,5 @@
+{
+  "name": "DataDash",
+  "description": "A powerful, client-side data analysis tool for Excel and CSV files with automatic insights, dashboards, and data quality profiling.",
+  "requestFramePermissions": []
+}
