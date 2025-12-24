@@ -1,7 +1,7 @@
 import React, { useState, useCallback, useEffect } from 'react';
 import { Upload, BarChart3, Database, FileText, X, Github, LayoutDashboard, ShieldAlert, Globe, LogOut, User as UserIcon } from 'lucide-react';
 import { DataSet, Language, TableCollection } from './types';
-import { processFile } from './services/dataProcessor.ts';
+import { processFile } from './services/dataProcessor';
 import { Dashboard } from './components/Dashboard';
 import { QualityReport } from './components/QualityReport';
 import { DataModeling } from './components/DataModeling';
